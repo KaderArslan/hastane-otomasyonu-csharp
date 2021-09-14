@@ -2,7 +2,7 @@
 
 2019-2020 Bahar Yarıyılı Görsel Programlama Dersi Proje Kuralları
 
-1- Kullanılması zorunlu yapılar:
+#### 1- Kullanılması zorunlu yapılar:
 - [x] Temel yapılar (label, button, textbox vs.)
 - [x] DataGridView
 - [x] MenuStrip
@@ -12,7 +12,7 @@
 - [x] DateTimePicker
 - [x] Veri tabanı
 
-2- Eklenmesi Zorunlu Durumlar
+#### 2- Eklenmesi Zorunlu Durumlar
 - [x] Veri tabanı için Ekleme/Silme/Güncelleme/Veri listeleme gibi tüm işlemlerin yapılabiliyor olması gerekir.
 - [x] Uygulamalarınız bir kullanıcı giriş (Login) sayfası ile başlamalıdır.
 - [x] Kullanıcılarınızın rolleri (standart kullanıcı, admin, yönetici vs) olmalıdır. En az 2 rol olmalıdır.
