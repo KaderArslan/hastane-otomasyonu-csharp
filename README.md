@@ -1,4 +1,4 @@
-# hastane-otomasyonu-csharp
+# Hastane Randevu Otomasyonu Masaüstü Projesi
 
 2019-2020 Bahar Yarıyılı Görsel Programlama Dersi Proje Kuralları
 
